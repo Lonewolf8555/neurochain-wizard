@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
-  <!-- repository -->
-  <!-- copy & paste everything from tmp\repo\addon.xml right here, 
-       including the <addon …>…</addon> block -->
-  
-  <!-- program -->
-  <!-- copy & paste everything from tmp\wizard\addon.xml right here -->
-</addons>

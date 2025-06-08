@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="repository.chainlabswizard" version="1.0.0" name="ChainLabs Wizard Repository" provider-name="YourName">
+<addons><addon id="repository.chainlabswizard" version="1.0.1" name="ChainLabs Wizard Repository" provider-name="YourName">
   <extension point="xbmc.addon.repository" name="ChainLabs Wizard Repo">
     <info compressed="false">addons.xml</info>
   </extension>
@@ -8,7 +8,7 @@
     Contains the program add-on that installs the full Neurochain Kodi build.
   </description>
   <platform>all</platform>
-</addon><addon id="plugin.program.chainlabswizard" name="ChainLabs Wizard" version="1.0.0" provider-name="YourName">
+</addon><addon id="plugin.program.chainlabswizard" name="ChainLabs Wizard" version="1.0.1" provider-name="YourName">
   <extension point="xbmc.python.program" library="default.py">
     <program>
       <title>ChainLabs Wizard</title>

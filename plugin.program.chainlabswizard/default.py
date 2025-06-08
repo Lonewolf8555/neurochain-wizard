@@ -6,7 +6,8 @@ handle = int(sys.argv[1])
 base_url = sys.argv[0]
 
 # Auto-generated full-build URL
-FULL_BUILD_URL = ""
+FULL_BUILD_URL = "https://objects.githubusercontent.com/github-production-release-asset-2e65be/998212461/84707867-132b-4ba9-9e85-137a7a954eb1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250608%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250608T152320Z&X-Amz-Expires=300&X-Amz-Signature=e9a36b45d76a426c68b5c6a549a4f150a9c70ffd298aeed2f295b62333798fdd&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DNeurochainlabs_FullBuild.zip&response-content-type=application%2Foctet-stream
+"
 
 def list_menu():
     item = xbmcgui.ListItem(label="Install Full Neurochain Build")
